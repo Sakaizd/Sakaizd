@@ -1,6 +1,1 @@
-<!-- [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Sakaizd)]() -->
-
-[![Sakaizd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakaizd&hide=contribs,prs&show_icons=true&include_all_commits=truee&bg_color=60,A569BD,7FB3D5&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Sakaizd)
-
-<!-- [![Sakaizd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakaizd&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,fcb590,e46454&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/Sakaizd)
- -->
+![Metrics](https://metrics.lecoq.io/sakaizd?template=classic&isocalendar=1&languages=1&topics=1&achievements=1&gists=1&stars=1&starlists=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&topics.mode=starred&topics.sort=stars&topics.limit=15&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=Asia%2FShanghai)
