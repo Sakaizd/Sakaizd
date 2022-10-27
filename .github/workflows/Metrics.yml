@@ -67,10 +67,4 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           
-      - name: Delete workflow runs
-        uses: GitRML/delete-workflow-runs@main
-        with:
-          token: ${{ secrets.AUTH_PAT }}
-          repository: ${{ github.repository }}
-          retain_days: 7
-          keep_minimum_runs: 7      
+  
