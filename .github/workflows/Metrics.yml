@@ -25,16 +25,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Sakaizd
+          user: sakaizd
           template: classic
           base: header, activity, community, repositories, metadata
+          config_display: columns
           config_timezone: Asia/Hong_Kong
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
           plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
+          plugin_stars_limit: 3
